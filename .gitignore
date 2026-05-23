@@ -1,0 +1,86 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Build & Distribution
+build/
+dist/
+coverage/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Package Manager
+.npm
+.yarn/cache
+.yarn/install-state.gz
+pnpm-lock.yaml
+
+# Android
+android/.gradle/
+android/build/
+android/**/build/
+android/**/.gradle/
+android/**/local.properties
+*.apk
+*.aab
+android/app/debug/
+android/app/release/
+
+# iOS (if applicable)
+ios/Pods/
+ios/Podfile.lock
+ios/build/
+.xcode.proj/xcshareddata/
+
+# Capacitor
+/.capacitor/
+
+# Firebase
+.firebase/
+.firebaserc
+firebase-debug.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# Local development
+local.properties
+*.jks
+*.keystore

@@ -1,0 +1,22 @@
+{
+  "short_name": "MOMENTS.",
+  "name": "MOMENTS.",
+  "description": "A clean, super-minimalist milestone ledger designed strictly to preserve active remembrance.",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "display": "standalone",
+  "orientation": "portrait"
+}
